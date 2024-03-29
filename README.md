@@ -1,2 +1,3 @@
-# ckb-pcn-cross-chain-hub
-CKB Payment Channel Network Cross-Chain Hub
+# CKB Payment Channel Network Cross-Chain Hub
+
+- [Contributing Guidelines](docs/CONTRIBUTING.md)
