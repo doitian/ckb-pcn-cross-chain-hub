@@ -47,12 +47,11 @@ body:
       description: |
         examples:
           - **OS**: Ubuntu 20.04
-          - **Node**: v21.5.0
+          - **Rust**: 1.77.1
           - **pnpm**: 8.6.12
       value: |
         - **OS**:
-        - **Node**:
-        - **pnpm**:
+        - **Rust**:
     validations:
       required: false
   - type: textarea
